@@ -1,0 +1,44 @@
+{
+    "logs": [
+        {
+            "message": "Failed login attempt from IP 192.168.1.1",
+            "threat_level": "low"
+        },
+        {
+            "message": "Suspicious activity detected in user session",
+            "threat_level": "medium"
+        },
+        {
+            "message": "Multiple failed login attempts detected",
+            "threat_level": "high"
+        },
+        {
+            "message": "Unauthorized SSH access attempt",
+            "threat_level": "high"
+        },
+        {
+            "message": "Normal user login event",
+            "threat_level": "low"
+        },
+        {
+            "message": "Brute-force attack detected on web server",
+            "threat_level": "critical"
+        },
+        {
+            "message": "Unusual data transfer detected",
+            "threat_level": "medium"
+        },
+        {
+            "message": "SQL Injection attempt in login form",
+            "threat_level": "critical"
+        },
+        {
+            "message": "DDoS attack detected on API endpoint",
+            "threat_level": "high"
+        },
+        {
+            "message": "Malware activity detected on endpoint",
+            "threat_level": "critical"
+        }
+    ]
+}
